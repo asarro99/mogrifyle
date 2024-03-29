@@ -7,11 +7,11 @@
 #### Introducing the Privacy-Friendly File Tool! Enjoy hassle-free file conversions with complete privacy assurance. All transformations occur securely on your device, safeguarding your data. Whether it's images or videos, your privacy is our priority. Experience seamless file manipulation with peace of mind – try it now!
 
 <h4>
-    <a href="https://github.com/asarro/mogrifyle">Visit</a>
+    <a href="https://github.com/asarro99/mogrifyle">Visit</a>
   <span> · </span> 
-    <a href="https://github.com/asarro/mogrifyle/issues/">Report Bug</a>
+    <a href="https://github.com/asarro99/mogrifyle/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/asarro/mogrifyle/issues/">Request Feature</a>
+    <a href="https://github.com/asarro99/mogrifyle/issues/">Request Feature</a>
   </h4>
 
 </div>
